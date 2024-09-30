@@ -30,7 +30,7 @@ function Resume() {
                                         </h3>
                                         <h3
                                             className="h3 line-height-3 resume-topic-item resume-topic-three fw-500 text-black position-absolute">
-                                            Experience</h3>
+                                            Experiences</h3>
                                     </div>
                                 </div>
                                 <div className="col-12 col-lg-10">
@@ -285,13 +285,13 @@ function Resume() {
                                             {/* <!-- experience third column --> */}
                                             <div className="col-lg-4 resume-third-item">
                                                 <h4 className="h4 text-black fw-500">
-                                                    UI/UX Designer
+                                                   Full-Stack-Developer
                                                 </h4>
                                                 <p className="p secondary-black fw-400 line-height-7 mt-10">
-                                                    Google Out Tech - (2017 - Present)
+                                                    Navodita Infotech-(Sep 2022- Nov 2022)
                                                 </p>
                                                 <p className="p secondary-black fw-400 line-height-7 mt-20">
-                                                    Pomnis voluptas assumenda est, omnis dolor repellendus.
+                                                As a Full-Stack Developer at Novidta Infotech, I successfully developed a fully dynamic education website for an institute. My role involved designing and implementing both the front-end and back-end components, ensuring a seamless user experience and robust functionality. 
                                                 </p>
                                             </div>
                                         </div>
